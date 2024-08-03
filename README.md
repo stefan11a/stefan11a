@@ -1,8 +1,8 @@
 👋 Hi, I’m Stefan
 
-🤔 I’m interested in Python and Solidity
+🤔 I’m interested in Solidity
 
-🧠 I’m currently learning the 'Advance' part of Python
+🧠 I’m currently learning Solidity
 
 👀 I’m looking for the oportunity to develop my coding skills further
 
